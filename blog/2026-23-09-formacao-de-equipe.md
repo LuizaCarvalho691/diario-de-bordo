@@ -31,3 +31,12 @@ Tenho lidado com essas responsabilidades com entusiasmo, já que é minha primei
 ## Olhando para a release que acabou de ser entregue, o que você diria que funcionou bem e o que não funcionou na sua equipe?
 A nossa separação em três subgrupos, backend, frontend e banco de dados, funcionou muito bem. Principalmente porque, quando uma área ficava sobrecarregada, um membro de outro subgrupo passava temporariamente para ajudar, apesar de ainda termos que melhorar a sincronia entre backend e frontend.
 Por outro lado, a documentação do projeto não funcionou tão bem nessa release: ficamos sem algumas informações importantes registradas, e o conteúdo acabou desorganizado.
+
+## Como o feedback recebido (de colegas, professora, monitoria) tem influenciado o que vocês estão fazendo agora?
+O feedback da professora e dos monitores ajudaram muito meu grupo pois apontaram os principais pontos que tinhamos que melhorar como na organização da documentação e no balanceamento dos commits entre os membros da equipe. E o feedback dos meus colegas é sempre importante pois eles sempre dizem quando cometo erros e me explicam como deve ser corrigido.
+
+## O que mudou, para você, entre o início da disciplina e este momento — tecnicamente e no seu jeito de trabalhar em equipe?
+Ao longo da disciplina, ganhei muito mais facilidade para trabalhar em equipe, principalmente na organização das tarefas e no controle das branches, o que deixou o fluxo do grupo mais claro e com menos e com menos conflitos. Tecnicamente, passei a entender melhor o backend e a arquitetura do projeto, incluindo a camada de serviços, os endpoints e as rotas, embora ainda esteja me aprofundando nessa área e, as vezes, dependa mais do que gostaria da IA para gerar códigos que ainda não domino. Por isso, pretendo estudar esses pontos com mais profundidade para ganhar autonomia.
+
+## Compare como você está se sentindo na preparação desta segunda entrega com a forma como se sentiu na primeira.
+Eu estou mais animada pois ao contrário da primeira release em que o objetivo principal do nosso grupo foi entregar os requisitos e o protótipo, nessa planejamos entregar o sistema funcional completo.
